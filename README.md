@@ -11,3 +11,5 @@ These are spring Boot projects.
 
 If you wish to read more on microservices please refer to my blog: 
 https://medium.com/@shrutiebony/all-about-microservices-in-350-words-ee2f27287a6?source=friends_link&sk=50883306a90d6301c9ff8e8a57d19d48
+
+Also refer to my ppt: https://www.slideshare.net/ShrutiGoyal214798/microservice-pptpptx-257477633
